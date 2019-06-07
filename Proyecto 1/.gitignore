@@ -1,0 +1,12 @@
+*.bin
+*.o
+*.aux
+*.synctex
+*.out
+
+crfs
+*.mp3
+*.txt
+*.gif
+*.mkv
+*.jpg
